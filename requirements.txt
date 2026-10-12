@@ -1,0 +1,14 @@
+llama-index
+llama-index-core
+langchain-databricks
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+openpyxl
+xlrd
+beautifulsoup4
+numpy
+faostat
+scikit-learn
+pdfplumber
+nest_asyncio
